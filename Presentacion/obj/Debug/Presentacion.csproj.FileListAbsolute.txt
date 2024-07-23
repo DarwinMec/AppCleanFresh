@@ -1,0 +1,191 @@
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCategoria.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProducto.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMetodoPago.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmTarjeta.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmBoleta.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Datos.dll
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmAbastecimientoProductos.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Entidades.dll
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Negocio.dll
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Datos.dll
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmBoleta.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCategoria.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmAbastecimientoProductos.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMetodoPago.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProducto.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmTarjeta.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Entidades.dll
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Negocio.dll
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Datos.dll
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmBoleta.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCategoria.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmAbastecimientoProductos.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMetodoPago.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProducto.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmTarjeta.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\TP - FUNDA\CleanFresh\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleCompraProveedor.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasDistrito.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteProductoCategoria.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteVentasMes.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleCompraProveedor.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteProductoCategoria.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasDistrito.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteVentasMes.resources
+C:\Users\USUARIO\Desktop\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasMarca.resources
+C:\Users\Cesar\source\repos\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasMarca.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Entidades.dll
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Negocio.dll
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Datos.dll
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmBoleta.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCategoria.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmAbastecimientoProductos.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMetodoPago.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProducto.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleCompraProveedor.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasMarca.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteProductoCategoria.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasDistrito.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteVentasMes.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmTarjeta.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Datos.dll
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmBoleta.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCategoria.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmAbastecimientoProductos.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMetodoPago.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProducto.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleCompraProveedor.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasMarca.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteProductoCategoria.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasDistrito.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteVentasMes.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmTarjeta.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Jordan\Downloads\CleanFreshFinal\CleanFresh\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Entidades.dll
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Negocio.dll
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Datos.dll
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmBoleta.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCategoria.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmAbastecimientoProductos.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmMetodoPago.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProducto.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleCompraProveedor.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasMarca.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteProductoCategoria.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteDetalleVentasDistrito.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmReporteVentasMes.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmTarjeta.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.FrmVenta.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Desktop\FUNDAMENTOS\Trabajo Final\CleanFresh\Presentacion\obj\Debug\Presentacion.pdb

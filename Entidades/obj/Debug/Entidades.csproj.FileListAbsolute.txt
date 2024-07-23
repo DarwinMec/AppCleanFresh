@@ -1,0 +1,12 @@
+C:\Users\Cesar\source\repos\CleanFresh\Entidades\bin\Debug\Entidades.dll
+C:\Users\Cesar\source\repos\CleanFresh\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Cesar\source\repos\CleanFresh\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\CleanFresh\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\CleanFresh\Entidades\obj\Debug\Entidades.dll
+C:\Users\Cesar\source\repos\CleanFresh\Entidades\obj\Debug\Entidades.pdb
+C:\Users\USUARIO\Desktop\CleanFresh\Entidades\bin\Debug\Entidades.dll
+C:\Users\USUARIO\Desktop\CleanFresh\Entidades\bin\Debug\Entidades.pdb
+C:\Users\USUARIO\Desktop\CleanFresh\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\CleanFresh\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\CleanFresh\Entidades\obj\Debug\Entidades.dll
+C:\Users\USUARIO\Desktop\CleanFresh\Entidades\obj\Debug\Entidades.pdb
