@@ -1,0 +1,6 @@
+   ID		Contraseña	Empleado
+1. 201712336	Amaraxis	Ariam Bartolo
+2. 201715076	Eonofre		Edgar Onofre
+3. 201812390	Derek04		Luis Benites
+4. 201917243	Cesar17		Cesar Martinez
+5. 202031764	Darwin123	Darwin Mendoza
